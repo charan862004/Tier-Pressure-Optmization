@@ -1,1 +1,6 @@
+streamlit==1.50.0
+numpy
+matplotlib
+pandas
+tabulate
 
